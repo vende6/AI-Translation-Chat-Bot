@@ -27,3 +27,5 @@ C:\Users\PC\OneDrive - Student Ambassadors\Desktop\WeAreDevelopers_Zagreb_Croati
 C:\Users\PC\OneDrive - Student Ambassadors\Desktop\WeAreDevelopers_Zagreb_Croatia_29112023\WeAreDevelopers_Zagreb_Croatia_29112023\obj\Debug\net8.0\WeAreDevelopers_Zagreb_Croatia_29112023.pdb
 C:\Users\PC\OneDrive - Student Ambassadors\Desktop\WeAreDevelopers_Zagreb_Croatia_29112023\WeAreDevelopers_Zagreb_Croatia_29112023\obj\Debug\net8.0\WeAreDevelopers_Zagreb_Croatia_29112023.genruntimeconfig.cache
 C:\Users\PC\OneDrive - Student Ambassadors\Desktop\WeAreDevelopers_Zagreb_Croatia_29112023\WeAreDevelopers_Zagreb_Croatia_29112023\obj\Debug\net8.0\ref\WeAreDevelopers_Zagreb_Croatia_29112023.dll
+C:\Users\PC\OneDrive - Student Ambassadors\Desktop\WeAreDevelopers_Zagreb_Croatia_29112023\WeAreDevelopers_Zagreb_Croatia_29112023\obj\Debug\net8.0\WeAreDevelopers_Zagreb_Croatia_29112023.sourcelink.json
+C:\Users\PC\OneDrive - Student Ambassadors\Desktop\WeAreDevelopers_Zagreb_Croatia_29112023\WeAreDevelopers_Zagreb_Croatia_29112023\bin\Debug\net8.0\Azure.Search.Documents.dll

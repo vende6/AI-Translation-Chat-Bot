@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "iOL/PXFmiy49Cbk4efMdRJ4c3J/Zipt2DTy/wwoxAvfWY8Xj30bdS4ViTvqFVwoE2tzCO9u9U1tsA2b7Q34VCg==",
+  "dgSpecHash": "rX/Qzk4nAtIyeam22yyaz9ZgdGRybV8uABIgcCtl5R/H4nPwFGSFml2YJ4H/BDOTE9UxFGCX9pclyBFSLEuSJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\OneDrive - Student Ambassadors\\Desktop\\WeAreDevelopers_Zagreb_Croatia_29112023\\WeAreDevelopers_Zagreb_Croatia_29112023\\WeAreDevelopers_Zagreb_Croatia_29112023.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\azure.ai.openai\\1.0.0-beta.9\\azure.ai.openai.1.0.0-beta.9.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\azure.search.documents\\11.5.1\\azure.search.documents.11.5.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
@@ -22,6 +23,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
