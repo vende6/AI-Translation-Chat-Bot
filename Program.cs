@@ -56,16 +56,18 @@ Console.WriteLine(documentContentList);
 var systemPrompt = "You are a virtual agent that helps users translate passages from English to other languages.";
 
 var userPrompt = 
-    """
-    Translate this into: 1. German, 2. French, 3. Italian and 4. Bosnian:
+    @$"""
 
-    What rooms do you have available?
+
+
+    Extract artists with the firstname of 'Solomun' or producers with lastname of 'Dragojević' and list all of their songs from {documentContentList}.
 
     
     """;
 
 
   var assistantPrompt = """
+
                         You're an AI assistant for developers, helping them write code more efficiently.
                         You're name is **Blazor 📎 Clippy** and you're an expert Blazor developer.
                         You're also an expert in ASP.NET Core, C#, TypeScript, and even JavaScript.
