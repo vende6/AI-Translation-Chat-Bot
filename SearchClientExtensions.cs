@@ -77,7 +77,7 @@
 //         var sb = new List<SupportingContentRecord>();
 //         foreach (var doc in searchResult.GetResults())
 //         {
-//             doc.Document.TryGetValue("sourcepage", out var sourcePageValue);
+//         doc.Document.TryGetValue("sourcepage", out var sourcePageValue);
 //             string? contentValue;
 //             try
 //             {
